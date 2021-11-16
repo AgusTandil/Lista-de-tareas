@@ -1,0 +1,85 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+#titulo{
+    color: white;
+}
+.input{
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.boton-agregar{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 6, 46);
+    color:white;
+    
+}
+
+.boton-agregar:hover{opacity: 0.9;}
+
+.item-imput{
+    width: 50px;
+    height: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid white 1px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+    background: none;
+    outline: none;
+}
+
+.item{
+    margin-bottom: 10px;
+}
+
+.boton-editar{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    background: none;
+    color: #62d0ff;
+    font-size: 1.4rem;
+    font-family: Montserrat, sans-serif;
+}
+
+.boton-remover{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color:  rgb(255, 6, 46);
+    font-size: 20px;
+}
+
+#copyright{
+    font-weight: 25px;
+    font-size: 80%;
+    color: black;
+}
